@@ -1,0 +1,11 @@
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/bin/Debug/netcoreapp3.0/SocketServer
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/bin/Debug/netcoreapp3.0/SocketServer.deps.json
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/bin/Debug/netcoreapp3.0/SocketServer.runtimeconfig.json
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/bin/Debug/netcoreapp3.0/SocketServer.runtimeconfig.dev.json
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/bin/Debug/netcoreapp3.0/SocketServer.dll
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/bin/Debug/netcoreapp3.0/SocketServer.pdb
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/obj/Debug/netcoreapp3.0/SocketServer.csprojAssemblyReference.cache
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/obj/Debug/netcoreapp3.0/SocketServer.AssemblyInfoInputs.cache
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/obj/Debug/netcoreapp3.0/SocketServer.AssemblyInfo.cs
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/obj/Debug/netcoreapp3.0/SocketServer.dll
+/Users/test/Documents/GitHub/concurrency_assignment/SocketServer/obj/Debug/netcoreapp3.0/SocketServer.pdb

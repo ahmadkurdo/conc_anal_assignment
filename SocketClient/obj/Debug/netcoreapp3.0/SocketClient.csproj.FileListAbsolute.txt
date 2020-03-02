@@ -1,0 +1,11 @@
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/bin/Debug/netcoreapp3.0/SocketClient
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/bin/Debug/netcoreapp3.0/SocketClient.deps.json
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/bin/Debug/netcoreapp3.0/SocketClient.runtimeconfig.json
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/bin/Debug/netcoreapp3.0/SocketClient.runtimeconfig.dev.json
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/bin/Debug/netcoreapp3.0/SocketClient.dll
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/bin/Debug/netcoreapp3.0/SocketClient.pdb
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/obj/Debug/netcoreapp3.0/SocketClient.csprojAssemblyReference.cache
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/obj/Debug/netcoreapp3.0/SocketClient.AssemblyInfoInputs.cache
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/obj/Debug/netcoreapp3.0/SocketClient.AssemblyInfo.cs
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/obj/Debug/netcoreapp3.0/SocketClient.dll
+/Users/test/Documents/GitHub/concurrency_assignment/SocketClient/obj/Debug/netcoreapp3.0/SocketClient.pdb
